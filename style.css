@@ -1,15 +1,16 @@
 
 h1 {
     color: blue;
-    font-family: Futura; sans-serif;
+    font-family: Futura, sans-serif;
 }
 
 /* h2 {
     color: green;
     font-family: helvetica; */
-}
+/* } */
+
 ul {
-    list-style:circle;
+    list-style: circle;
 }
 ol {
     list-style: decimal;
