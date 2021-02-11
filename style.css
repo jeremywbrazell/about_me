@@ -1,9 +1,25 @@
 
 h1 {
     color: blue;
+    font-family: Futura; sans-serif;
 }
 
-h2 {
+/* h2 {
     color: green;
+    font-family: helvetica; */
+}
+ul {
+    list-style:circle;
+}
+ol {
+    list-style: decimal;
+    font-family: helvetica, sans-serif;
 }
 
+p {
+    font-family: helvetica, sans-serif;
+}
+
+li {
+    font-family: helvetica, sans-serif;
+}
